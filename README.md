@@ -65,10 +65,10 @@ JSON is a lightweight data interchange format used in APIs. It's easy for humans
 # Example JSON format for a book:
 ```json
 {
-  "name": "The Great Gatsby",
-  "author": "F. Scott Fitzgerald",
-  "description": "A novel about the American dream.",
-  "pages": 180
+    "name": "Kafka on the Shore",
+    "description": "Kafka on the Shore, a tour de force of metaphysical reality, is powered by two remarkable characters: a teenage boy, Kafka Tamura, who runs away from home either to escape a gruesome oedipal prophecy or to search for his long-missing mother and sister; and an aging simpleton called Nakata, who never recovered from a wartime affliction and now is drawn toward Kafka for reasons that, like the most basic activities of daily life",
+    "pages": 600,
+    "author": "Haruki Murakami"
 }
 ```
 
@@ -161,13 +161,6 @@ JSON is a lightweight data interchange format used in APIs. It's easy for humans
 3. Set up requests in Postman:
    - Create a new `GET` request for `http://127.0.0.1:5000/books` to fetch all books.
    - Create a new `POST` request for `http://127.0.0.1:5000/books` to add a book. Include the JSON payload in the body.
-
----
-
-# Screenshots
-
-![Postman Screenshot]("C:\Users\Reem\Pictures\Screenshots\Screenshot 2024-11-27 135300.png")
-![http://127.0.0.1:5000/books Screenshot](""C:\Users\Reem\Pictures\Screenshots\Screenshot 2024-11-27 140037.png"")
 
 ---
 
