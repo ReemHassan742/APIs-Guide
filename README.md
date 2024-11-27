@@ -4,7 +4,7 @@
 ```markdown
 # Library Organizer API
 
-The **Library Organizer** is a simple Flask-based REST API for managing a collection of books. This project demonstrates how to create an API with Flask, SQLAlchemy, and SQLite, and how to interact with it using tools like Postman. It also serves as a resource for beginners to understand the basics of RESTful APIs.
+The Library Organizer is a simple Flask-based REST API for managing a collection of books. This project demonstrates how to create an API with Flask, SQLAlchemy, and SQLite, and how to interact with it using tools like Postman. It also serves as a resource for beginners to understand the basics of RESTful APIs.
 
 # Features
 
