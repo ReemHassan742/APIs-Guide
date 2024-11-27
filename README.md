@@ -75,8 +75,10 @@ JSON is a lightweight data interchange format used in APIs. It's easy for humans
 ---
 
 # Resources for learning APIs
+
 - REST API Crash Course (Video)](https://www.youtube.com/watch?v=qbLc5a9jdXo)
 - 7 Tips for API Design (Video)](https://www.youtube.com/watch?v=_gQaygjm_hg)
+- My Medium article (https://medium.com/@reemhassan742r/the-power-of-apis-a-guide-for-beginners-with-real-world-examples-120790ee07c8)
 - [RESTful API Design Guide](https://www.restapitutorial.com/)
 - [JSON Format Documentation](https://www.json.org/json-en.html)
 
