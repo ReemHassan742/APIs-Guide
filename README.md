@@ -189,11 +189,3 @@ Contributions are welcome! Feel free to fork this repository, make your changes,
 
 ---
 ```
-
-# Key Updates:
-1. **Notes on APIs**: I've added explanations of key concepts like REST, HTTP methods, status codes, and JSON. This should help anyone unfamiliar with APIs better understand the project and its structure.
-2. **Additional Learning Resources**: I've included links to tutorials, videos, and documentation for learning more about APIs and the technologies used in this project.
-
-# Next Steps:
-1. Replace `path/to/website_screenshot.png` and `path/to/postman_screenshot.png` with the actual paths or URLs to your screenshots.
-2. Update the `git clone` link with your actual repository URL.
