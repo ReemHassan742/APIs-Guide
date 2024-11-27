@@ -24,7 +24,7 @@ An API (Application Programming Interface) is a set of rules that allows applica
 Let's say you want to check the weather for your location. You might send a request to an API that looks like this:
 
 ```
-GET https://api.weather.com/v3/weather/current?location=London
+
 ```
 
 This request would return data like this:
